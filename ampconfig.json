@@ -1,0 +1,18 @@
+{
+  "dataServiceGeneratorVersion": "0.8.0",
+  "appInfo": {
+    "name": "AspireLampGroup",
+    "description": "",
+    "version": "eyh72z5j",
+    "id": "cks42gtda10899051bs6fkii8tkm",
+    "url": "https://app.amplication.com/cks42gtda10899051bs6fkii8tkm",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "ALG-Table",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "cks42gtda10899051bs6fkii8tkm"
+    }
+  }
+}
